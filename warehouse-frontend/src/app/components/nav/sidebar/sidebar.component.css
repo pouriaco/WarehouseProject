@@ -85,12 +85,17 @@
 .lower-side {
     width: 265px;
     height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding-bottom: 20px;
 }
 .lower-side .low{
-    width: 208px;
+    /* width: 208px;
     height: 212px;
     transform: translate(28.77px, 153.04px);
-    padding: 50px 0px;
+    padding: 50px 0px; */
+
 }
 .lower-side .low .setting-text a{
     text-decoration: none;
