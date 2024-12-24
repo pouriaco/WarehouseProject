@@ -1,0 +1,136 @@
+.sidebar {
+    width: 265px;
+    height: 100vh;
+    border-radius: 5px;
+    transform: -0.07°;
+}
+
+.top-side {
+    width: 265px;
+    height: 50vh;
+    /* background-color: #000; */
+}
+
+.sidebar-logo {
+    width: 265px;
+    height: 70px;
+    position: relative;
+}
+
+#logo {
+    width: 63px;
+    height: 54px;
+    position: absolute;
+    transform: translate(14.5px, 8.02px);
+}
+
+.sidebar .top-side .main {
+    width: 208px;
+    height: 212px;
+    transform: translate(28.77px, 10.04px);
+}
+
+.main #head-text a{
+    text-decoration: none;
+    width: 208px;
+    height: 24px;
+    text-align: left;
+    line-height: 24px;
+    font-size: 11;
+    color: #052355;
+    padding-right: 4px;
+    transform: translateX(0.27);
+}
+
+.main #des-text {
+    width: 208px;
+    height: 184px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    transform: translate(0.23px);
+}
+
+.main #des-text .topics {
+    width: 208px;
+    height: 40px;
+    text-align: left;
+    color: #000;
+}
+
+.main #des-text div .img {
+    width: 20px;
+    height: 20px;
+    transform: translate(0.04px, 10px);
+}
+
+.main #des-text div .img img {
+    width: 20px;
+    height: 20px;
+}
+.main #des-text div .img-arrow {
+    width: 20px;
+    height: 20px;
+    transform: translate(7px, 10px);
+}
+.main #des-text div .text {
+    width: 138px;
+    height: 20px;
+    margin-right: 20px;
+    transform: translate(36.04px, 10.05px);
+}
+
+/* lower part */
+
+.lower-side {
+    width: 265px;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding-bottom: 20px;
+}
+.lower-side .low{
+    /* width: 208px;
+    height: 212px;
+    transform: translate(28.77px, 153.04px);
+    padding: 50px 0px; */
+
+}
+.lower-side .low .setting-text a{
+    text-decoration: none;
+    text-align: left;
+    line-height: 24px;
+    color: #052355;
+}
+
+.low-side-text{
+    width: 138px;
+    height: 20px;
+    margin-right: 20px;
+    transform: translate(36.04px);
+}
+.add-doc{
+    width: 180px;
+    height: 48px;
+    border-radius: 12px;
+    padding: 11px 20px;
+    background-color: #052355;
+    margin-top: 30px;
+    text-align: center;
+}
+.add-doc span{
+    color: #fff;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+/* effect */
+.topics:hover{
+    cursor: pointer;
+}
