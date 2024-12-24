@@ -1,0 +1,25 @@
+.left-side{
+    height: 100vh;
+    background: linear-gradient(45deg, rgba(83,129,178,1) 0%, rgba(4,34,84,1) 100%);
+}
+.right-side{
+    height: 100vh;
+}
+.btn-dark-blue{
+    border: none;
+    border-radius: 50px;
+    background-color: #052355;
+    transition: all 0.19s;
+}
+.form-input{
+    height: 55px;
+    border: 0.5px solid rgba(0, 0, 0, 0.138);
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+
+/*Hovers*/
+.btn-dark-blue:hover{
+    background-color: #1d3a6c;
+    box-shadow: #0522552b 0px 3px 12px;
+}
