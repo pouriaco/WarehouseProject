@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './components/auth/login/login.component';
 import { SidebarComponent } from './components/nav/sidebar/sidebar.component';
 import { ProductComponent } from './components/page/product/product.component';
+import { AddProductComponent } from './components/page/add-item/add-product/add-product.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LoginComponent,
     SidebarComponent,
-    ProductComponent
+    ProductComponent,
+    AddProductComponent
   ],
   imports: [
     BrowserModule,
