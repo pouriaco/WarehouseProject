@@ -5,7 +5,15 @@ import { AppComponent } from './app.component';
 import { LoginComponent } from './components/auth/login/login.component';
 import { SidebarComponent } from './components/nav/sidebar/sidebar.component';
 import { ProductComponent } from './components/page/product/product.component';
-import { AddProductComponent } from './components/page/add-item/add-product/add-product.component';
+import { WareHouseComponent } from './components/page/ware-house/ware-house.component';
+import { AddItemWarehouseComponent } from './components/page/ware-house/add-item-warehouse/add-item-warehouse.component';
+import { DocumentComponent } from './components/page/document/document.component';
+import { AddDocumentComponent } from './components/page/document/add-document/add-document.component';
+import { CityComponent } from './components/page/city/city.component';
+import { AddCityComponent } from './components/page/city/add-city/add-city.component';
+import { ShelfComponent } from './components/page/shelf/shelf.component';
+import { AddShelfComponent } from './components/page/shelf/add-shelf/add-shelf.component';
+import { PurchaseComponent } from './components/page/purchase/purchase.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +21,15 @@ import { AddProductComponent } from './components/page/add-item/add-product/add-
     LoginComponent,
     SidebarComponent,
     ProductComponent,
-    AddProductComponent
+    WareHouseComponent,
+    AddItemWarehouseComponent,
+    DocumentComponent,
+    AddDocumentComponent,
+    CityComponent,
+    AddCityComponent,
+    ShelfComponent,
+    AddShelfComponent,
+    PurchaseComponent
   ],
   imports: [
     BrowserModule,
