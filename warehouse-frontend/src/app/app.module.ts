@@ -30,7 +30,8 @@ import { AddProductComponent } from './components/page/product/add-product/add-p
     AddCityComponent,
     ShelfComponent,
     AddShelfComponent,
-    PurchaseComponent
+    PurchaseComponent,
+    AddProductComponent
   ],
   imports: [
     BrowserModule,
