@@ -2,13 +2,11 @@
     width: 265px;
     height: 100vh;
     border-radius: 5px;
-    transform: -0.07°;
 }
 
 .top-side {
     width: 265px;
     height: 50vh;
-    /* background-color: #000; */
 }
 
 .sidebar-logo {
@@ -58,22 +56,22 @@
     color: #000;
 }
 
-.main #des-text div .img {
+.main #des-text a .img {
     width: 20px;
     height: 20px;
     transform: translate(0.04px, 10px);
 }
 
-.main #des-text div .img img {
+.main #des-text a .img img {
     width: 20px;
     height: 20px;
 }
-.main #des-text div .img-arrow {
+.main #des-text a .img-arrow {
     width: 20px;
     height: 20px;
     transform: translate(7px, 10px);
 }
-.main #des-text div .text {
+.main #des-text a .text {
     width: 138px;
     height: 20px;
     margin-right: 20px;
@@ -118,6 +116,7 @@
     background-color: #052355;
     margin-top: 30px;
     text-align: center;
+    border: none;
 }
 .add-doc span{
     color: #fff;
@@ -128,12 +127,6 @@
 
 
 
-
-
-/* effect */
-.topics:hover{
-    cursor: pointer;
-}
 /*  */
 
 a{

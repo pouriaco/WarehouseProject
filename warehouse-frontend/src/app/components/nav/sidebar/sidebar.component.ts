@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrl: './sidebar.component.css'
 })
 export class SidebarComponent {
+  isclosed: boolean = false
 
+
+  toggleVisibility(): void {
+    this.isclosed = !this.isclosed;
+  }
 }

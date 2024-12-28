@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrl: './shelf.component.css'
 })
 export class ShelfComponent {
+  isclosed: boolean = false
 
+
+  toggleVisibility(): void {
+    this.isclosed = !this.isclosed;
+  }
 }

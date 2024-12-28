@@ -31,3 +31,11 @@
 .page-table-row .item-menu{
     width: 2%;
 }
+.add-btn{
+    background-color: #052355;
+    width: 55px;
+    height: 55px;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

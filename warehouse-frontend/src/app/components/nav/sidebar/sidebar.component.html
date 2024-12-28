@@ -11,36 +11,63 @@
                 <a href="#">main</a>
             </div>
             <div id="des-text" class="mt-2">
-                <div class="topics d-flex">
+
+
+                
+                <a routerLink="/warehouse" class="topics d-flex my-2">
                     <div class="img"><img src="../../../../assets/sidebar-images/Icon/01.png" alt=""></div>
                     <div class="text">
-                        <p>warehouse</p>
+                        <p>Warehouse</p>
                     </div>
                     <!-- <div class="img"><img src="../../../../assets/sidebar-images/Icon/Arrow.png" alt=""></div> -->
-                </div>
-                <div class="topics d-flex">
+                </a>
+
+
+
+
+
+                <a routerLink="/document" class="topics d-flex my-2">
                     <div class="img"><img src="../../../../assets/sidebar-images/Icon/01.png" alt=""></div>
                     <div class="text">
                         <p>Documents</p>
                     </div>
                     <!-- <div class="img-arrow"><img src="../../../../assets/sidebar-images/Icon/arrownodown.png" alt=""></div> -->
-                </div>
-                <div class="topics d-flex">
+                </a>
+
+
+
+                <a routerLink="/products" class="topics d-flex my-2">
                     <div class="img"><img src="../../../../assets/sidebar-images/Icon/01.png" alt="">
                     </div>
                     <div class="text">
                         <p>Production</p>
                     </div>
                     <!-- <div class="img-arrow"><img src="../../../../assets/sidebar-images/Icon/arrownodown.png" alt=""></div> -->
-                </div>
-                <div class="topics d-flex">
+                </a>
+
+
+                
+
+                <a routerLink="/city" class="topics d-flex my-2">
                     <div class="img"><img src="../../../../assets/sidebar-images/Icon/01.png" alt="">
                     </div>
                     <div class="text">
-                        <p>Report</p>
+                        <p>City</p>
                     </div>
                     <!-- <div class="img-arrow"><img src="../../../../assets/sidebar-images/Icon/arrownodown.png" alt=""></div> -->
-                </div>
+                </a>
+
+
+
+
+                <a routerLink="/shelf" class="topics d-flex my-2">
+                    <div class="img"><img src="../../../../assets/sidebar-images/Icon/01.png" alt="">
+                    </div>
+                    <div class="text">
+                        <p>Shelf</p>
+                    </div>
+                    <!-- <div class="img-arrow"><img src="../../../../assets/sidebar-images/Icon/arrownodown.png" alt=""></div> -->
+                </a>
             </div>
         </div>
     </div>
@@ -56,10 +83,8 @@
                 </div>
                 <!-- <div class="img"><img src="../../../../assets/sidebar-images/Icon/arrownodown.png" alt=""></div> -->
             </div>
-            <a href="#"> <div class="add-doc">
-                <img src="../../../../assets/sidebar-images/Icon/Frame 1039.png" alt="">
-                <span class="fw-semi-bold">Add Doc</span>
-            </div></a>
+            <button (click)="toggleVisibility()" type="submit" class="add-doc mt-3"><i class="bi bi-plus-lg text-white"></i><span class="fs-6">Add Doc</span></button>
         </div>
     </div>
 </div>
+<app-purchase class="position-fixed top-0 w-100" *ngIf="isclosed"></app-purchase>

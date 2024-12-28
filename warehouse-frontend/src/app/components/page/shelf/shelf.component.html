@@ -5,7 +5,7 @@
     <div class="section w-100 overflow-y-scroll">
         <div class="d-flex justify-content-between px-3 pt-3 ">
             <div class="col-3">
-                <h2 class="fw-bold">Warehouse</h2>
+                <h2 class="fw-bold">Shelf</h2>
             </div>
             <div class="col-3 d-flex justify-content-end">
                 <input type="text" class="search-input me-2 ps-3" placeholder="search">
@@ -20,7 +20,8 @@
                         <th scope="col" class="text-muted">AREA</th>
                         <th scope="col" class="text-muted">CITY</th>
                         <th scope="col" class="text-muted">LEVELS</th>
-                        <button class="btn btn-white" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+                        <button class="btn btn-white" type="button" id="dropdownMenu2" data-bs-toggle="dropdown"
+                            aria-expanded="false">
                             <i class="bi bi-three-dots"></i>
                         </button>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
@@ -34,7 +35,8 @@
                         <td>Test</td>
                         <td>5</td>
                         <!-- <td class="item-menu"><i class="bi bi-three-dots"></i></td> -->
-                        <button class="btn btn-white" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+                        <button class="btn btn-white" type="button" id="dropdownMenu2" data-bs-toggle="dropdown"
+                            aria-expanded="false">
                             <i class="bi bi-three-dots"></i>
                         </button>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
@@ -44,6 +46,9 @@
                 </tbody>
             </table>
         </div>
+        <button (click)="toggleVisibility()"
+            class="btn add-btn rounded-circle position-fixed bottom-0 end-0 m-3 me-4 text-white d-flex justify-content-center align-items-center"><i
+                class="bi bi-plus-lg text-white fs-4"></i></button>
     </div>
 </div>
-<!-- <app-add-shelf class="position-fixed top-0 w-100"></app-add-shelf> -->
+<app-add-shelf *ngIf="isclosed" class="position-fixed top-0 w-100"></app-add-shelf>

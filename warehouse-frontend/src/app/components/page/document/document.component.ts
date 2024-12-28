@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrl: './document.component.css'
 })
 export class DocumentComponent {
+  isclosed: boolean = false
 
+
+  toggleVisibility(): void {
+    this.isclosed = !this.isclosed;
+  }
 }

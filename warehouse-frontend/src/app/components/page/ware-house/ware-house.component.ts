@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrl: './ware-house.component.css'
 })
 export class WareHouseComponent {
+  isclosed: boolean = false
 
+
+  toggleVisibility(): void {
+    this.isclosed = !this.isclosed;
+  }
 }
