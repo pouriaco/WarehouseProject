@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.dbContext
 {
-    internal class dbContextDatabase : DbContext
+     public class dbContextDatabase : DbContext
     {
         public DbSet<CityEntity> Citys { get; set; }
         public DbSet<ProductEntity> Products { get; set; }
-        public DbSet<WarehouseEntity> Warehouse { get; set; }
+        public DbSet<WarehouseEntity> Warehouses { get; set; }
         public DbSet<ShelfEntity> Shelf { get; set; }
         public DbSet<SerialDocumnetEntity> SerialDocumnet { get; set; }
         public DbSet<SerialEntity> Serials { get; set; }

@@ -173,7 +173,7 @@ namespace Infrastructure.Migrations
 
                     b.HasIndex("CityId");
 
-                    b.ToTable("Warehouse");
+                    b.ToTable("Warehouses");
                 });
 
             modelBuilder.Entity("Domain.Entities.SerialDocumnetEntity", b =>

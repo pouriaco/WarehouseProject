@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Application.Dtos.WarehouseDtos
 {
-    internal class CRUDWarehouseDTO
+    public class CRUDWarehouseDTO
     {
-        public string _Name { get; set; }
-        public double _Area { get; set; }
-        public int _CityId { get; set; }
+        public int Id { get; set; } // برای عملیات آپدیت و حذف
+        public string Name { get; set; } // نام انبار
+        public double Area { get; set; } // مساحت انبار
+        public int CityId { get; set; } // شناسه شهر
     }
 }

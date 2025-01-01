@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Application.Dtos.WarehouseDtos
 {
-    internal class CRUDCityDTO
+    public class CRUDCityDTO
     {
-        public string _Name { get; set; }
+        public string Name { get; set; }
     }
 }

@@ -70,3 +70,91 @@ C:\Users\PC-Kosar\Desktop\AspClass\back-end\WarehouseProjectNewDatabase\Project\
 C:\Users\PC-Kosar\Desktop\AspClass\back-end\WarehouseProjectNewDatabase\Project\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.pdb
 C:\Users\PC-Kosar\Desktop\AspClass\back-end\WarehouseProjectNewDatabase\Project\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.genruntimeconfig.cache
 C:\Users\PC-Kosar\Desktop\AspClass\back-end\WarehouseProjectNewDatabase\Project\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\ref\Jebheye Moqavemat C#.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\appsettings.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Jebheye Moqavemat C#.staticwebassets.endpoints.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Jebheye Moqavemat C#.exe
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Jebheye Moqavemat C#.deps.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Jebheye Moqavemat C#.runtimeconfig.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Jebheye Moqavemat C#.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Jebheye Moqavemat C#.pdb
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.csproj.AssemblyReference.cache
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.AssemblyInfoInputs.cache
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.AssemblyInfo.cs
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.csproj.CoreCompileInputs.cache
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.sourcelink.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\scopedcss\bundle\Jebheye Moqavemat C#.styles.css
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets\msbuild.Jebheye Moqavemat C#.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets\msbuild.Jebheye Moqavemat C#.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets\msbuild.build.Jebheye Moqavemat C#.props
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jebheye Moqavemat C#.props
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jebheye Moqavemat C#.props
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye .F2D81B52.Up2Date
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\refint\Jebheye Moqavemat C#.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.pdb
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\Jebheye Moqavemat C#.genruntimeconfig.cache
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\obj\Debug\net8.0\ref\Jebheye Moqavemat C#.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Application.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Domain.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Application.pdb
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Domain.pdb
+C:\Users\Raya-Center\Desktop\WarehouseProject\Jebheye Moqavemat C#\Jebheye Moqavemat C#\bin\Debug\net8.0\Infrastructure.pdb

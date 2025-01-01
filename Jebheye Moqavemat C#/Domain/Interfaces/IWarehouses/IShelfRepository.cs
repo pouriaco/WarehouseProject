@@ -7,11 +7,12 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.IWarehouses
 {
-    internal interface IShelfRepository
+    public interface IShelfRepository
     {
      /* C */  public ShelfEntity CreateShelf(int occupiedSpace , int levels , int warehouseId);
-     /* U */  public ShelfEntity UpdateShelf(int occupiedSpace, int levels , int warehouseId);
+     /* U */  public ShelfEntity UpdateShelf(int occupiedSpace, int levels, int shelfId, int newWarehouseId);
      /* D */  public bool DeleteShelf(int shelfId);
+              public ShelfEntity GetShelfById(int id);
               public List<ShelfEntity> GetShelvesByWarehouse(int warehouseId); // دریافت لیست قفسه‌های موجود در یک انبار
     }
 }
