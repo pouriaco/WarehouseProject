@@ -31,7 +31,6 @@ namespace Jebheye_Moqavemat_C_.Controllers
             }
         }
 
-
         [HttpGet("GetShelvesByWarehouse/{warehouseId}")]
         public ActionResult<IEnumerable<ShelfEntity>> GetShelvesByWarehouse(int warehouseId)
         {
@@ -39,7 +38,7 @@ namespace Jebheye_Moqavemat_C_.Controllers
             return Ok(shelves);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("GetShelf{id}")]
         public ActionResult<ShelfEntity> GetShelf(int id)
         {
             var shelf = _service.GetShelfById(id);
@@ -52,9 +51,9 @@ namespace Jebheye_Moqavemat_C_.Controllers
         }
 
         [HttpPut("UpdateShelf/{shelfId}/{newWarehouseId}")]
-        public IActionResult PutShelf(int shelfId, int newWarehouseId, CRUDShelfDTO shelfDTO)
+        public IActionResult PutShelf(int shelfId, int newWarehouseId)
         {
-            var result = _service.UpdateShelf(shelfDTO, shelfId, newWarehouseId);
+            var result = _service.UpdateShelf(shelfId, newWarehouseId);
             if (result == "The update was successful.")
             {
                 return Ok(result);
@@ -64,8 +63,6 @@ namespace Jebheye_Moqavemat_C_.Controllers
                 return BadRequest(result);
             }
         }
-
-
 
         [HttpDelete("DeleteShelf/{id}")]
         public IActionResult DeleteShelf(int id)

@@ -11,7 +11,7 @@ namespace Domain.Interfaces.IWarehouses
     {
      /* C */ public ShelfEntity CreateShelf(int occupiedSpace , int levels , int warehouseId);
      /* R */ public ShelfEntity GetShelfById(int id);
-     /* U */ public ShelfEntity UpdateShelf(int occupiedSpace, int levels, int shelfId, int newWarehouseId);
+     /* U */ public ShelfEntity UpdateShelf(int shelfId, int newWarehouseId);
      /* D */ public bool DeleteShelf(int shelfId);
 
         public List<ShelfEntity> GetShelvesByWarehouse(int warehouseId); // دریافت لیست قفسه‌های موجود در یک انبار

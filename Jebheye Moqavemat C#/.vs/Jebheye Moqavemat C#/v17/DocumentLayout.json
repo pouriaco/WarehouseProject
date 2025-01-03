@@ -3,52 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\jebheye moqavemat c#\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|solutionrelative:jebheye moqavemat c#\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BC7A53A-898C-4345-886C-E4CBF7A2F653}|Infrastructure\\Infrastructure.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\infrastructure\\repository\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BC7A53A-898C-4345-886C-E4CBF7A2F653}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\application\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|solutionrelative:application\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\jebheye moqavemat c#\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|solutionrelative:jebheye moqavemat c#\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\domain\\interfaces\\iwarehouses\\ishelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iwarehouses\\ishelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\application\\dtos\\warehousedtos\\crudwarehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|solutionrelative:application\\dtos\\warehousedtos\\crudwarehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\domain\\interfaces\\iwarehouses\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iwarehouses\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BC7A53A-898C-4345-886C-E4CBF7A2F653}|Infrastructure\\Infrastructure.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\infrastructure\\repository\\shelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BC7A53A-898C-4345-886C-E4CBF7A2F653}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\shelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\domain\\interfaces\\iwarehouses\\ishelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iwarehouses\\ishelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\domain\\interfaces\\iwarehouses\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iwarehouses\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\application\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|solutionrelative:application\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\jebheye moqavemat c#\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|solutionrelative:jebheye moqavemat c#\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\jebheye moqavemat c#\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|solutionrelative:jebheye moqavemat c#\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\jebheye moqavemat c#\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|solutionrelative:jebheye moqavemat c#\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC7A53A-898C-4345-886C-E4CBF7A2F653}|Infrastructure\\Infrastructure.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\infrastructure\\repository\\shelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC7A53A-898C-4345-886C-E4CBF7A2F653}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\shelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\application\\services\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|solutionrelative:application\\services\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\domain\\entities\\serialdocumnetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\serialdocumnetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\application\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|solutionrelative:application\\services\\warehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\domain\\entities\\warehouseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\warehouseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\application\\services\\documnetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|solutionrelative:application\\services\\documnetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\application\\dtos\\warehousedtos\\crudwarehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46BD4C38-1DEF-4861-B362-040BFF4AEA7A}|Application\\Application.csproj|solutionrelative:application\\dtos\\warehousedtos\\crudwarehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\domain\\entities\\serialdocumnetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDA8E46-E64D-40CB-BA72-CEBD1DD01CF8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\serialdocumnetentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A417224-DC69-4FF7-A92B-3778D23B0C67}|Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj|c:\\users\\raya-center\\desktop\\warehouseproject\\jebheye moqavemat c#\\jebheye moqavemat c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,111 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WarehouseController.cs",
-              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\WarehouseController.cs",
-              "RelativeDocumentMoniker": "Jebheye Moqavemat C#\\Controllers\\WarehouseController.cs",
-              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\WarehouseController.cs",
-              "RelativeToolTip": "Jebheye Moqavemat C#\\Controllers\\WarehouseController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T15:01:05.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WarehouseService.cs",
-              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Services\\WarehouseService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\WarehouseService.cs",
-              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Services\\WarehouseService.cs",
-              "RelativeToolTip": "Application\\Services\\WarehouseService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T14:58:49.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CRUDWarehouseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Dtos\\WarehouseDtos\\CRUDWarehouseDTO.cs",
-              "RelativeDocumentMoniker": "Application\\Dtos\\WarehouseDtos\\CRUDWarehouseDTO.cs",
-              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Dtos\\WarehouseDtos\\CRUDWarehouseDTO.cs",
-              "RelativeToolTip": "Application\\Dtos\\WarehouseDtos\\CRUDWarehouseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T14:45:31.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IWarehouseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Interfaces\\IWarehouses\\IWarehouseRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IWarehouses\\IWarehouseRepository.cs",
-              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Interfaces\\IWarehouses\\IWarehouseRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IWarehouses\\IWarehouseRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T14:36:41.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShelfRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Repository\\ShelfRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShelfRepository.cs",
-              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Repository\\ShelfRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\ShelfRepository.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAswIAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T10:29:03.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ShelfController.cs",
-              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\ShelfController.cs",
-              "RelativeDocumentMoniker": "Jebheye Moqavemat C#\\Controllers\\ShelfController.cs",
-              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\ShelfController.cs",
-              "RelativeToolTip": "Jebheye Moqavemat C#\\Controllers\\ShelfController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T10:42:52.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IShelfRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Interfaces\\IWarehouses\\IShelfRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IWarehouses\\IShelfRepository.cs",
-              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Interfaces\\IWarehouses\\IShelfRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IWarehouses\\IShelfRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T10:27:12.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WarehouseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Repository\\WarehouseRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\WarehouseRepository.cs",
-              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Repository\\WarehouseRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\WarehouseRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:53:01.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ICityRepository.cs",
               "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Interfaces\\IWarehouses\\ICityRepository.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IWarehouses\\ICityRepository.cs",
@@ -190,8 +94,68 @@
               "RelativeToolTip": "Domain\\Interfaces\\IWarehouses\\ICityRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T14:44:02.101Z",
+              "WhenOpened": "2025-01-01T14:44:02.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Interfaces\\IWarehouses\\IWarehouseRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IWarehouses\\IWarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Interfaces\\IWarehouses\\IWarehouseRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IWarehouses\\IWarehouseRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:36:41.09Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShelfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Interfaces\\IWarehouses\\IShelfRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IWarehouses\\IShelfRepository.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Interfaces\\IWarehouses\\IShelfRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IWarehouses\\IShelfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:27:12.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Jebheye Moqavemat C#\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Jebheye Moqavemat C#\\Controllers\\CityController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:45:23.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Services\\CityService.cs",
+              "RelativeToolTip": "Application\\Services\\CityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T12:45:54.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShelfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Repository\\ShelfRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ShelfRepository.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Repository\\ShelfRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ShelfRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:29:03.107Z"
             },
             {
               "$type": "Document",
@@ -201,13 +165,86 @@
               "RelativeDocumentMoniker": "Application\\Services\\ShelfService.cs",
               "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Services\\ShelfService.cs",
               "RelativeToolTip": "Application\\Services\\ShelfService.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwD4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T10:42:34.722Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Repository\\WarehouseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\WarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Repository\\WarehouseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\WarehouseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:53:01.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShelfController.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\ShelfController.cs",
+              "RelativeDocumentMoniker": "Jebheye Moqavemat C#\\Controllers\\ShelfController.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\ShelfController.cs",
+              "RelativeToolTip": "Jebheye Moqavemat C#\\Controllers\\ShelfController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T10:42:52.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "Jebheye Moqavemat C#\\Controllers\\WarehouseController.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "Jebheye Moqavemat C#\\Controllers\\WarehouseController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T15:01:05.578Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "WarehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Services\\WarehouseService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\WarehouseService.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Services\\WarehouseService.cs",
+              "RelativeToolTip": "Application\\Services\\WarehouseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:58:49.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CRUDWarehouseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Dtos\\WarehouseDtos\\CRUDWarehouseDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\WarehouseDtos\\CRUDWarehouseDTO.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Dtos\\WarehouseDtos\\CRUDWarehouseDTO.cs",
+              "RelativeToolTip": "Application\\Dtos\\WarehouseDtos\\CRUDWarehouseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:45:31.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumnetService.cs",
+              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Services\\DocumnetService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\DocumnetService.cs",
+              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Services\\DocumnetService.cs",
+              "RelativeToolTip": "Application\\Services\\DocumnetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T19:11:21.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "SerialDocumnetEntity.cs",
               "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Entities\\SerialDocumnetEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\SerialDocumnetEntity.cs",
@@ -219,19 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WarehouseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Entities\\WarehouseEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\WarehouseEntity.cs",
-              "ToolTip": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Entities\\WarehouseEntity.cs",
-              "RelativeToolTip": "Domain\\Entities\\WarehouseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:35:26.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Raya-Center\\Desktop\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Program.cs",
               "RelativeDocumentMoniker": "Jebheye Moqavemat C#\\Program.cs",

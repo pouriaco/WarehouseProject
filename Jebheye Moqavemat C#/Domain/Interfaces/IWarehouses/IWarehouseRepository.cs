@@ -13,10 +13,11 @@ namespace Domain.Interfaces.IWarehouses
       /* R */ public WarehouseEntity GetWarehouseById(int warehouseId);
       /* U */ public void UpdateWarehouse(WarehouseEntity warehouse);
       /* D */ public void DeleteWarehouse(int warehouseId);
+      /* G */ public List<WarehouseEntity> GetAllWarehouses();
 
-           //
-              public List<WarehouseEntity> GetAllWarehouses();
-           //
+
+
+        //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
               public double CheckWarehouseCapacity(int warehouseId); // بررسی و محاسبه ظرفیت باقی‌مانده یک انبار
               public IEnumerable<SerialEntity> GetWarehouseInventoryReport(int warehouseId); // گزارش موجودی انبار شامل لیستی از محصولات و تعداد آن‌ها
 

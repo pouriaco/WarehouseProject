@@ -20,7 +20,18 @@ namespace Infrastructure.Repository
 
         public double CheckWarehouseCapacity(int warehouseId)
         {
-            throw new NotImplementedException();
+            var warehouse = _context.Warehouses.FirstOrDefault(w => w.Id == warehouseId);
+            if (warehouse == null)
+            {
+                throw new Exception("Warehouse not found");
+            }
+
+            var totalOccupiedSpace = _context.Shelf
+                .Where(s => s.WarehouseId == warehouseId)
+                .Sum(s => s.OccupiedSpace);
+
+            var remainingCapacity = warehouse.Area - totalOccupiedSpace;
+            return remainingCapacity;
         }
 
         public WarehouseEntity CreateWarehouse(string name, double area, int cityId) 
@@ -58,7 +69,6 @@ namespace Infrastructure.Repository
             _context.SaveChanges();
         }
 
-
         public List<WarehouseEntity> GetAllWarehouses()
         {
             return _context.Warehouses.ToList();
@@ -71,7 +81,18 @@ namespace Infrastructure.Repository
 
         public IEnumerable<SerialEntity> GetWarehouseInventoryReport(int warehouseId)
         {
-            throw new NotImplementedException();
+            var warehouse = _context.Warehouses.FirstOrDefault(w => w.Id == warehouseId);
+            if (warehouse == null)
+            {
+                throw new Exception("Warehouse not found");
+            }
+
+            var inventoryReport = _context.SerialDocumnet
+                .Where(sd => sd.Shelf.WarehouseId == warehouseId)
+                .Select(sd => sd.Serial)
+                .ToList();
+
+            return inventoryReport;
         }
 
         public void UpdateWarehouse(WarehouseEntity warehouse)

@@ -70,32 +70,6 @@
   },
   {
     "ContainingType": "Jebheye_Moqavemat_C_.Controllers.ShelfController",
-    "Method": "GetShelf",
-    "RelativePath": "api/Shelf/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Domain.Entities.ShelfEntity",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Jebheye_Moqavemat_C_.Controllers.ShelfController",
     "Method": "PostShelf",
     "RelativePath": "api/Shelf/CreateShelf",
     "HttpMethod": "POST",
@@ -125,6 +99,32 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jebheye_Moqavemat_C_.Controllers.ShelfController",
+    "Method": "GetShelf",
+    "RelativePath": "api/Shelf/GetShelf{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Domain.Entities.ShelfEntity",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Jebheye_Moqavemat_C_.Controllers.ShelfController",
@@ -169,10 +169,21 @@
         "Name": "newWarehouseId",
         "Type": "System.Int32",
         "IsRequired": true
-      },
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jebheye_Moqavemat_C_.Controllers.WarehouseController",
+    "Method": "CheckWarehouseCapacity",
+    "RelativePath": "api/Warehouse/CheckWarehouseCapacity/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Name": "shelfDTO",
-        "Type": "Application.Dtos.WarehouseDtos.CRUDShelfDTO",
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -255,6 +266,22 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Jebheye_Moqavemat_C_.Controllers.WarehouseController",
+    "Method": "GetWarehouseInventoryReport",
+    "RelativePath": "api/Warehouse/GetWarehouseInventoryReport/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Jebheye_Moqavemat_C_.Controllers.WarehouseController",

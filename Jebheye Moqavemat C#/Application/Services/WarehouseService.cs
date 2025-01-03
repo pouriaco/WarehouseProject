@@ -40,5 +40,16 @@ namespace Application.Services
         {
             _warehouseRepository.DeleteWarehouse(warehouseId);
         }
+
+        public double CheckWarehouseCapacity(int warehouseId)
+        {
+            return _warehouseRepository.CheckWarehouseCapacity(warehouseId);
+        }
+
+        public IEnumerable<SerialEntity> GetWarehouseInventoryReport(int warehouseId)
+        {
+            return _warehouseRepository.GetWarehouseInventoryReport(warehouseId);
+        }
+
     }
 }

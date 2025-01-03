@@ -55,58 +55,43 @@ namespace Infrastructure.Repository
             }
         }
 
-
-
-
-        public ShelfEntity UpdateShelf(int occupiedSpace, int levels, int shelfId, int newWarehouseId)
+        public ShelfEntity UpdateShelf(int shelfId, int newWarehouseId)
         {
-            try
+            // مرحله 1: اعتبارسنجی انبار جدید
+            var newWarehouse = _context.Warehouses.FirstOrDefault(w => w.Id == newWarehouseId);
+            if (newWarehouse == null)
             {
-                // مرحله 1: اعتبارسنجی انبار جدید
-                var newWarehouse = _context.Warehouses.FirstOrDefault(w => w.Id == newWarehouseId);
-                if (newWarehouse == null)
-                {
-                    throw new Exception("New warehouse not found");
-                }
-
-                // مرحله 2: بررسی فضای انبار جدید
-                var totalOccupiedSpace = _context.Shelf
-                    .Where(s => s.WarehouseId == newWarehouseId)
-                    .Sum(s => s.OccupiedSpace);
-                var availableSpace = newWarehouse.Area - totalOccupiedSpace;
-
-                if (occupiedSpace > availableSpace)
-                {
-                    throw new Exception("Not enough space in the new warehouse");
-                }
-
-                // مرحله 3: بروزرسانی قفسه
-                var shelf = _context.Shelf.FirstOrDefault(s => s.Id == shelfId);
-                if (shelf == null)
-                {
-                    throw new Exception("Shelf not found");
-                }
-
-                shelf.OccupiedSpace = occupiedSpace;
-                shelf.Levels = levels;
-                shelf.WarehouseId = newWarehouseId;
-                _context.Entry(shelf).State = EntityState.Modified;
-                _context.SaveChanges();
-                return shelf;
+                throw new Exception("New warehouse not found");
             }
-            catch (Exception ex)
+
+            // مرحله 2: بررسی فضای انبار جدید
+            var totalOccupiedSpace = _context.Shelf
+                .Where(s => s.WarehouseId == newWarehouseId)
+                .Sum(s => s.OccupiedSpace);
+            var availableSpace = newWarehouse.Area - totalOccupiedSpace;
+
+            var shelf = _context.Shelf.FirstOrDefault(s => s.Id == shelfId);
+            if (shelf == null)
             {
-                throw new Exception("Update failed due to insufficient space in the new warehouse: " + ex.Message);
+                throw new Exception("Shelf not found");
             }
+
+            if (shelf.OccupiedSpace > availableSpace)
+            {
+                throw new Exception("Not enough space in the new warehouse");
+            }
+
+            // مرحله 3: بروزرسانی قفسه
+            shelf.WarehouseId = newWarehouseId;
+            _context.Entry(shelf).State = EntityState.Modified;
+            _context.SaveChanges();
+            return shelf;
         }
-
-
 
         public ShelfEntity GetShelfById(int id)
         {
             return _context.Shelf.FirstOrDefault(s => s.Id == id);
         }
-
 
         public bool DeleteShelf(int shelfId)
         {
@@ -140,9 +125,6 @@ namespace Infrastructure.Repository
                 throw new Exception("Deletion failed: " + ex.Message);
             }
         }
-
-
-
 
         public List<ShelfEntity> GetShelvesByWarehouse(int warehouseId)
         {

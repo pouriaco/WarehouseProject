@@ -38,7 +38,6 @@ namespace Jebheye_Moqavemat_C_.Controllers
             }
         }
 
-
         [HttpGet("GetAllWarehouse")]
         public List<WarehouseEntity> GetAllWarehouses()
         {
@@ -77,7 +76,6 @@ namespace Jebheye_Moqavemat_C_.Controllers
             }
         }
 
-
         [HttpDelete("DeleteWarehouse/{id}")]
         public IActionResult DeleteWarehouse(int id)
         {
@@ -91,5 +89,34 @@ namespace Jebheye_Moqavemat_C_.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
+        [HttpGet("CheckWarehouseCapacity/{id}")]
+        public IActionResult CheckWarehouseCapacity(int id)
+        {
+            try
+            {
+                var remainingCapacity = _warehouseService.CheckWarehouseCapacity(id);
+                return Ok(remainingCapacity);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet("GetWarehouseInventoryReport/{id}")]
+        public IActionResult GetWarehouseInventoryReport(int id)
+        {
+            try
+            {
+                var inventoryReport = _warehouseService.GetWarehouseInventoryReport(id);
+                return Ok(inventoryReport);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
     }
 }

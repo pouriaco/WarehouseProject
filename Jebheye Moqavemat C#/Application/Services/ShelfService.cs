@@ -26,11 +26,11 @@ namespace Application.Services
             }
         }
 
-        public string UpdateShelf(CRUDShelfDTO shelfDTO, int shelfId, int newWarehouseId)
+        public string UpdateShelf(int shelfId, int newWarehouseId)
         {
             try
             {
-                _shelfRepository.UpdateShelf(shelfDTO.OccupiedSpace, shelfDTO.Levels, shelfId, newWarehouseId);
+                _shelfRepository.UpdateShelf(shelfId, newWarehouseId);
                 return "The update was successful.";
             }
             catch (Exception ex)
@@ -38,7 +38,6 @@ namespace Application.Services
                 return ex.Message;
             }
         }
-
 
         public string DeleteShelf(int shelfId)
         {
@@ -60,6 +59,7 @@ namespace Application.Services
         {
             return _shelfRepository.GetShelvesByWarehouse(warehouseId);
         }
+        
         public ShelfEntity GetShelfById(int id)
         {
             return _shelfRepository.GetShelfById(id); 
