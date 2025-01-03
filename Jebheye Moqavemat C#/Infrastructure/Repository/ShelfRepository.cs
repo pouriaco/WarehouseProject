@@ -28,7 +28,7 @@ namespace Infrastructure.Repository
                 }
 
                 // مرحله 2: بررسی فضای انبار
-                var totalOccupiedSpace = _context.Shelf
+                var totalOccupiedSpace = _context.Shelfs
                     .Where(s => s.WarehouseId == warehouseId)
                     .Sum(s => s.OccupiedSpace);
                 var availableSpace = warehouse.Area - totalOccupiedSpace;
@@ -45,7 +45,7 @@ namespace Infrastructure.Repository
                     Levels = levels,
                     WarehouseId = warehouseId
                 };
-                _context.Shelf.Add(shelf);
+                _context.Shelfs.Add(shelf);
                 _context.SaveChanges();
                 return shelf;
             }
@@ -65,12 +65,12 @@ namespace Infrastructure.Repository
             }
 
             // مرحله 2: بررسی فضای انبار جدید
-            var totalOccupiedSpace = _context.Shelf
+            var totalOccupiedSpace = _context.Shelfs
                 .Where(s => s.WarehouseId == newWarehouseId)
                 .Sum(s => s.OccupiedSpace);
             var availableSpace = newWarehouse.Area - totalOccupiedSpace;
 
-            var shelf = _context.Shelf.FirstOrDefault(s => s.Id == shelfId);
+            var shelf = _context.Shelfs.FirstOrDefault(s => s.Id == shelfId);
             if (shelf == null)
             {
                 throw new Exception("Shelf not found");
@@ -90,7 +90,7 @@ namespace Infrastructure.Repository
 
         public ShelfEntity GetShelfById(int id)
         {
-            return _context.Shelf.FirstOrDefault(s => s.Id == id);
+            return _context.Shelfs.FirstOrDefault(s => s.Id == id);
         }
 
         public bool DeleteShelf(int shelfId)
@@ -108,10 +108,10 @@ namespace Infrastructure.Repository
                 }
 
                 // مرحله 2: حذف قفسه
-                var shelf = _context.Shelf.Find(shelfId);
+                var shelf = _context.Shelfs.Find(shelfId);
                 if (shelf != null)
                 {
-                    _context.Shelf.Remove(shelf);
+                    _context.Shelfs.Remove(shelf);
                     _context.SaveChanges();
                     return true;
                 }
@@ -128,7 +128,7 @@ namespace Infrastructure.Repository
 
         public List<ShelfEntity> GetShelvesByWarehouse(int warehouseId)
         {
-            return _context.Shelf.Where(s => s.WarehouseId == warehouseId).ToList();
+            return _context.Shelfs.Where(s => s.WarehouseId == warehouseId).ToList();
         }
     }
 }

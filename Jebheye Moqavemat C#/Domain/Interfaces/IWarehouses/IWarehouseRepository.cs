@@ -23,6 +23,3 @@ namespace Domain.Interfaces.IWarehouses
 
     }
 }
-
-
-// public bool TransferProduct(int serialNumber, int fromWarehouseId, int toWarehouseId , int forShelfId , int toShelfId); // انتقال کالا از یک انبار به انبار دیگر

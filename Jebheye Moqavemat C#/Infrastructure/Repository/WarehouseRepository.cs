@@ -26,7 +26,7 @@ namespace Infrastructure.Repository
                 throw new Exception("Warehouse not found");
             }
 
-            var totalOccupiedSpace = _context.Shelf
+            var totalOccupiedSpace = _context.Shelfs
                 .Where(s => s.WarehouseId == warehouseId)
                 .Sum(s => s.OccupiedSpace);
 
@@ -59,7 +59,7 @@ namespace Infrastructure.Repository
                 throw new Exception("Warehouse not found");
             }
 
-            var shelves = _context.Shelf.Where(s => s.WarehouseId == warehouseId).ToList();
+            var shelves = _context.Shelfs.Where(s => s.WarehouseId == warehouseId).ToList();
             if (shelves.Count > 0)
             {
                 throw new Exception("Please move the shelves before deleting the warehouse");
@@ -103,7 +103,7 @@ namespace Infrastructure.Repository
                 throw new Exception("Warehouse not found");
             }
 
-            var shelves = _context.Shelf.Where(s => s.WarehouseId == warehouse.Id).ToList();
+            var shelves = _context.Shelfs.Where(s => s.WarehouseId == warehouse.Id).ToList();
             bool canReduceArea = shelves.All(shelf => shelf.OccupiedSpace < warehouse.Area);
 
             if (warehouse.Area < existingWarehouse.Area && !canReduceArea)

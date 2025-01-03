@@ -14,10 +14,5 @@ namespace Domain.Interfaces.IDocumnets
     /* D */  public bool DeletDocumnet(int documnetId);
              public  IEnumerable<DocumnetEntity> GetDocumnetHistory(int warehouseId); // دریافت تاریخچه تراکنش‌های یک انبار بر اساس شناسه
 
-
-
-
-             //public SerialDocumnetEntity RegisterEntryDocumnet(List<SerialEntity> serialNumber, int quantity, int shelfId); // ثبت تراکنش ورود کالا
-             //public SerialDocumnetEntity RegisterExitDocumnet(List<SerialEntity> serialNumber, int quantity, int shelfId); // ثبت تراکنش خروج کالا
     }
 }

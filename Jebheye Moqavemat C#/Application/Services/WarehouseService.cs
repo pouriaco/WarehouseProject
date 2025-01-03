@@ -21,6 +21,7 @@ namespace Application.Services
         {
             return _warehouseRepository.CreateWarehouse(name, area, cityId);
         }
+
         public List<WarehouseEntity> GetAllWarehouses()
         {
             return _warehouseRepository.GetAllWarehouses();

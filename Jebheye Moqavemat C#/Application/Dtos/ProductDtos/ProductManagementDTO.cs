@@ -18,6 +18,5 @@ namespace Application.Dtos.ProductDtos
         public double _Dimensions { get; set; } // ابعاد محصول
         public int _WarehouseId { get; set; } // شناسه انبار
         public int _ShelfId { get; set; } // شناسه قفسه
-        //public int _Quantity { get; set; }  // تعداد موجود از محصول
     }
 }
