@@ -3210,11 +3210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\CheckAll\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj",
+      "projectUniqueName": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\Git\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj",
       "projectName": "Jebheye Moqavemat C#",
-      "projectPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\CheckAll\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj",
+      "projectPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\Git\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#.csproj",
       "packagesPath": "C:\\Users\\PC-Kosar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\CheckAll\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\obj\\",
+      "outputPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\Git\\WarehouseProject\\Jebheye Moqavemat C#\\Jebheye Moqavemat C#\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3235,14 +3235,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\CheckAll\\Jebheye Moqavemat C#\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\CheckAll\\Jebheye Moqavemat C#\\Application\\Application.csproj"
+            "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\Git\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\Git\\WarehouseProject\\Jebheye Moqavemat C#\\Application\\Application.csproj"
             },
-            "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\CheckAll\\Jebheye Moqavemat C#\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\CheckAll\\Jebheye Moqavemat C#\\Domain\\Domain.csproj"
+            "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\Git\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\Git\\WarehouseProject\\Jebheye Moqavemat C#\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\CheckAll\\Jebheye Moqavemat C#\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\CheckAll\\Jebheye Moqavemat C#\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\Git\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\PC-Kosar\\Desktop\\AspClass\\back-end\\WarehouseProjectNewDatabase\\Git\\WarehouseProject\\Jebheye Moqavemat C#\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
