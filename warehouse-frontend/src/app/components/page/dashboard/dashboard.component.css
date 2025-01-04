@@ -1,0 +1,58 @@
+.page{
+    height: 100vh;
+    overflow: hidden;
+}
+
+.btn-dark-blue{
+    border: none;
+    border-radius: 8px;
+    background-color: #052355;
+    transition: all 0.19s;
+}
+
+.search-input{
+    border: 0.5px solid rgb(221, 221, 221);
+    border-radius: 8px;
+    width: 70%;
+}
+
+.notif{
+    color: #052355;
+}
+.custom-w{
+    width: 1192px;
+    height: 112px;
+}
+.box-1{
+    width: 275px;
+    height: 112px;
+    background-color: #BCCFEB;
+    border-radius: 16px;
+}
+.box-2{
+    width: 275px;
+    height: 112px;
+    background-color: #E5ECF6;
+    border-radius: 16px;
+}
+.ml{
+    margin-left: 31px;
+}
+.notif-box{
+    border-radius: 16px;
+    width: 271px;
+    height: 490px;
+}
+.stock-box{
+    width: 880px;
+    height: 490px;
+}
+
+.stock-box div{
+    width: 423px;
+    height: 240px;
+    border-radius: 16px;
+}
+.c-border{
+    border-bottom: 1px solid black;
+}

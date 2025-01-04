@@ -14,7 +14,8 @@ import { AddCityComponent } from './components/page/city/add-city/add-city.compo
 import { ShelfComponent } from './components/page/shelf/shelf.component';
 import { AddShelfComponent } from './components/page/shelf/add-shelf/add-shelf.component';
 import { PurchaseComponent } from './components/page/purchase/purchase.component';
-import { AddProductComponent } from './components/page/product/add-product/add-product.component'; 
+import { AddProductComponent } from './components/page/product/add-product/add-product.component';
+import { DashboardComponent } from './components/page/dashboard/dashboard.component';
 @NgModule({
   declarations: [
     AddProductComponent,
@@ -31,7 +32,8 @@ import { AddProductComponent } from './components/page/product/add-product/add-p
     ShelfComponent,
     AddShelfComponent,
     PurchaseComponent,
-    AddProductComponent
+    AddProductComponent,
+    DashboardComponent,
   ],
   imports: [
     BrowserModule,
