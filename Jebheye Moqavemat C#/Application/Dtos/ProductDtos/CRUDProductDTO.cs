@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Application.Dtos.ProductDtos
 {
-    internal class CRUDProductDTO
+    public class CRUDProductDTO
     {
         public string _Name { get; set; }
         public int _Dimensions { get; set; }

@@ -10,7 +10,6 @@ namespace Domain.Entities
     {
         public int Id { get; set; }
         public DateTime Date { get; set; }
-
         public DocumnetType EntryExit { get; set; }
         public enum  DocumnetType
         {

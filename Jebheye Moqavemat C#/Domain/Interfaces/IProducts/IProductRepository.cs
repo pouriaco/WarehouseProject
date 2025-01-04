@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.IProducts
 {
-    internal interface IProductRepository
+    public interface IProductRepository
     {
       /* C */  public ProductEntity CreateProduct(string name, int dimensions); 
-      /* R */  public int GetProductById(int productId);
-      /* U */  public ProductEntity UpdateProduct(string name , int dimensions);
-      /* D */  public int DeleteProduct(int productId);
+      /* R */  public ProductEntity GetProductById(int productId);
+      /* U */  public ProductEntity UpdateProduct(ProductEntity input);
+      /* D */  public bool DeleteProduct(int productId);
+               public List<ProductEntity> GetAllProducts();
                public int GetProductSerialCount(int productId, int warehouseId); // گزارش تعداد سریال‌های یک محصول خاص در یک انبار مشخص
     }
 }
