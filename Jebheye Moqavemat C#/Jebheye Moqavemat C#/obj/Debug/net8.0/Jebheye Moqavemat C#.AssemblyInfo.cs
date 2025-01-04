@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jebheye Moqavemat C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ac6d5a558af499de26a9b08a81fe350e6ef52e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bd66c914dcd51e32b536d55286cf6c3a659b104")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jebheye Moqavemat C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jebheye Moqavemat C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

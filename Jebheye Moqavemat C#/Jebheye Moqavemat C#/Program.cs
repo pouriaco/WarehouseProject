@@ -16,7 +16,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IWarehouseRepository, WarehouseRepository>();
 builder.Services.AddScoped<ICityRepository, CityRepository>();
 builder.Services.AddScoped<IShelfRepository, ShelfRepository>();
-builder.Services.AddScoped<ShelfService>();
+//builder.Services.AddScoped<ShelfService>();
 
 
 var app = builder.Build();

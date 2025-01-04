@@ -1,6 +1,7 @@
 ﻿using Application.Dtos.WarehouseDtos;
 using Application.Services;
 using Domain.Entities;
+using Domain.Interfaces.IWarehouses;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -12,9 +13,9 @@ namespace Jebheye_Moqavemat_C_.Controllers
     {
         private readonly ShelfService _service;
 
-        public ShelfController(ShelfService service)
+        public ShelfController(IShelfRepository service)
         {
-            _service = service;
+            _service = new ShelfService(service);
         }
 
         [HttpPost("CreateShelf")]
