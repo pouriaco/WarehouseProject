@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace Domain.Interfaces.IWarehouses
 {
-    internal interface ICityRepository
+    public interface ICityRepository
     {
      /* C */   public CityEntity CreateCity(string name);
      /* R */   public CityEntity GetCityById(int cityId);
-     /* U */   public CityEntity UpdateCity(string name);
+     /* U */   public CityEntity UpdateCity(int id, string name);
      /* D */   public bool DeleteCity(int cityId);
-       
+
     }
 }

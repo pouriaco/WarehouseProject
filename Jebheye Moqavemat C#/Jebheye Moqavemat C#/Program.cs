@@ -20,6 +20,9 @@ builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<ISerialRepository , SerialRepository>();
 //builder.Services.AddScoped<SerialService>();
 builder.Services.AddScoped<IDocumnetRepository, DocumnetRepository>();
+builder.Services.AddScoped<IWarehouseRepository, WarehouseRepository>();
+builder.Services.AddScoped<ICityRepository, CityRepository>();
+builder.Services.AddScoped<IShelfRepository, ShelfRepository>();
 //builder.Services.AddScoped<DocumnetService>();
 var app = builder.Build();
 

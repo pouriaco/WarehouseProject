@@ -1,4 +1,4 @@
-﻿using Domain.Entities;
+using Domain.Entities;
 using Domain.Interfaces.IProducts;
 using Infrastructure.dbContext;
 using Infrastructure.Migrations;

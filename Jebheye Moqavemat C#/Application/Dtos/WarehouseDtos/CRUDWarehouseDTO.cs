@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Application.Dtos.WarehouseDtos
 {
-    internal class CRUDWarehouseDTO
+    public class CRUDWarehouseDTO
     {
-        public string _Name { get; set; }
-        public double _Area { get; set; }
-        public int _CityId { get; set; }
+        public string Name { get; set; } // نام انبار
+        public double Area { get; set; } // مساحت انبار
+        public int CityId { get; set; } // شناسه شهر
     }
 }
