@@ -1,2 +1,85 @@
 
 .codegpt
+
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## User-specific folders
+.vs/
+.vscode/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ppx/
+[Aa]ppxPackages/
+[Tt]est[Rr]esults/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## Entity Framework Migration files (optional)
+*_MigrationHistory/
+
+## Crash reports and debug logs
+*.stackdump
+*.log
+*.trace
+
+## NPM/Yarn dependency folders
+node_modules/
+bower_components/
+
+## Publish output
+wwwroot/
+publish/
+dist/
+
+## IDE-specific settings
+.idea/
+*.code-workspace
+*.swp
+
+## Database and configuration
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+*.db
+*.bak
+appsettings.*.json
+
+## Rider project files
+.idea/
+
+## Miscellaneous
+*.tmp
+*.cache
+*.diff
+*.orig
+*.rej
+
+# If you use JetBrains Rider or IntelliJ IDEA
+.idea/
+out/
+
+# For clean architecture folders
+src/**/bin/
+src/**/obj/
+tests/**/bin/
+tests/**/obj/
+
+# Ignore files specific to Clean Architecture
+*.pdb
+*.snk
+
