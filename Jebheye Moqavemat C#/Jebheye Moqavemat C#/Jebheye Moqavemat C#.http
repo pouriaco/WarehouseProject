@@ -1,6 +1,0 @@
-@Jebheye_Moqavemat_C__HostAddress = http://localhost:5137
-
-GET {{Jebheye_Moqavemat_C__HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
